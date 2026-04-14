@@ -56,7 +56,7 @@ const projects = [
       'User conversion +35%',
     ],
     contribution: 'Led cross-functional team, integrated with multiple data sources, and launched commercial product. Managed the full product lifecycle from ideation to market.',
-    image: '/images/【AI合富】(210705)咨询师内部宣传1.jpg',
+    image: './images/【AI合富】(210705)咨询师内部宣传1.jpg',
     color: 'navy',
   },
   {
@@ -72,7 +72,7 @@ const projects = [
       '550K+ families served',
     ],
     contribution: 'Oversaw platform strategy, partner integration, and go-to-market execution. Coordinated across 83 regional branches for unified deployment.',
-    image: '/images/【AI合富】(210705)咨询师内部宣传2.jpg',
+    image: './images/【AI合富】(210705)咨询师内部宣传2.jpg',
     color: 'teal',
   },
   {
@@ -88,7 +88,7 @@ const projects = [
       '30K+ active users',
     ],
     contribution: 'Built product from scratch, established risk control framework, and achieved profitability within 6 months of launch.',
-    image: '/images/【合富】2017年度优秀项目易点钱-171231.jpg',
+    image: './images/【合富】2017年度优秀项目易点钱-171231.jpg',
     color: 'gold',
   },
   {
@@ -104,7 +104,7 @@ const projects = [
       'Won "Internet Finance Innovation Award"',
     ],
     contribution: 'Led product design, user research, and nationwide rollout. Established standardized workflows across all regions.',
-    image: '/images/【合富】2018年度最佳项目"互金风云奖"-181231.jpg',
+    image: './images/【合富】2018年度最佳项目"互金风云奖"-181231.jpg',
     color: 'navy',
   },
 ];

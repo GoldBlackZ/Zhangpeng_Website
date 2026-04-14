@@ -236,7 +236,7 @@ export default function Contact() {
             <p className="text-sm text-[#86868b] mb-4">Scan to connect on WeChat</p>
             <div className="p-4 bg-white rounded-2xl shadow-lg">
               <img 
-                src="/images/wechat-qr.jpg" 
+                src="./images/wechat-qr.jpg" 
                 alt="WeChat QR Code" 
                 className="w-40 h-40 object-contain"
               />

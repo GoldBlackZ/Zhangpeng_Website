@@ -31,7 +31,7 @@ const workExperience = [
       'Developed recommendation models improving conversion by 35%',
       'Managed product lifecycle for 10+ digital products',
     ],
-    image: '/images/【AI合富】(210705)咨询师内部宣传1.jpg',
+    image: './images/【AI合富】(210705)咨询师内部宣传1.jpg',
   },
   {
     company: 'Hopefluent Group Holdings Ltd.',
@@ -46,7 +46,7 @@ const workExperience = [
       'Led IT audit and compliance initiatives with regulators',
       'Launched multiple successful fintech products',
     ],
-    image: '/images/【合富】2017年度优秀项目易点钱-171231.jpg',
+    image: './images/【合富】2017年度优秀项目易点钱-171231.jpg',
   },
   {
     company: 'Shenzhen D3 Financial Technology Services',

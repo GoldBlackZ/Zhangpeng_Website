@@ -25,7 +25,7 @@ const mediaItems = [
     publication: 'Guandian Real Estate Network',
     year: '2022',
     description: 'In-depth article on how AI technology is transforming real estate marketing and customer service.',
-    images: ['/images/【观点地产网】(220214)PC端官网文章页.jpg'],
+    images: ['./images/【观点地产网】(220214)PC端官网文章页.jpg'],
     icon: Newspaper,
     color: 'teal',
     link: 'https://www.guandian.cn/article/20220214/284105.html',
@@ -49,17 +49,17 @@ const mediaItems = [
 const additionalMedia = [
   {
     title: 'AI合富上线一周年记',
-    image: '/images/【合富】(220716)AI合富上线一周年记.jpg',
+    image: './images/【合富】(220716)AI合富上线一周年记.jpg',
     year: '2022',
   },
   {
     title: '产业数字化转型演讲',
-    image: '/images/【AI合富】(220520)产业数字化转型，地产将迎来哪些机遇与挑战-张鹏《观点数字化大会》谈论讲演（网页）.png',
+    image: './images/【AI合富】(220520)产业数字化转型，地产将迎来哪些机遇与挑战-张鹏《观点数字化大会》谈论讲演（网页）.png',
     year: '2022',
   },
   {
     title: 'Hopefluent Magazine Feature',
-    image: '/images/合富集团合富人杂志29期01-18\'.jpg',
+    image: './images/合富集团合富人杂志29期01-18\'.jpg',
     year: '2018',
   },
 ];

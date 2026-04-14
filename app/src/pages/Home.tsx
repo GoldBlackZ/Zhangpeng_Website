@@ -141,7 +141,7 @@ export default function Home() {
             <div className="relative">
               <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="/images/合富集团合富人杂志27期01-17'.jpg"
+                  src="./images/合富集团合富人杂志27期01-17'.jpg"
                   alt="ZHANG Peng - Featured in Hopefluent People Magazine"
                   className="w-full h-full object-cover"
                 />
@@ -215,7 +215,7 @@ export default function Home() {
               {
                 title: 'AI Hopefluent Platform',
                 desc: 'Integrated real estate digital platform serving 100K+ agents.',
-                image: '/images/【AI合富】(210705)咨询师内部宣传1.jpg',
+                image: './images/【AI合富】(210705)咨询师内部宣传1.jpg',
                 link: '/projects',
               },
               {
@@ -296,19 +296,19 @@ export default function Home() {
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-4">
                 <img
-                  src="/images/【合富】2017年度优秀项目易点钱-171231.jpg"
+                  src="./images/【合富】2017年度优秀项目易点钱-171231.jpg"
                   alt="2017 Best Project Award"
                   className="rounded-xl shadow-lg w-full"
                 />
                 <img
-                  src="/images/【市青联】委任证书-170501.jpg"
+                  src="./images/【市青联】委任证书-170501.jpg"
                   alt="Youth Federation Certificate"
                   className="rounded-xl shadow-lg w-full"
                 />
               </div>
               <div className="pt-8">
                 <img
-                  src="/images/%E3%80%90%E5%90%88%E5%AF%8C%E3%80%912018%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E9%A1%B9%E7%9B%AE%E2%80%9C%E4%BA%92%E9%87%91%E9%A3%8E%E4%BA%91%E5%A5%96%E2%80%9D-181231.jpg"
+                  src="./images/%E3%80%90%E5%90%88%E5%AF%8C%E3%80%912018%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E9%A1%B9%E7%9B%AE%E2%80%9C%E4%BA%92%E9%87%91%E9%A3%8E%E4%BA%91%E5%A5%96%E2%80%9D-181231.jpg"
                   alt="2018 Innovation Award"
                   className="rounded-xl shadow-lg w-full"
                 />

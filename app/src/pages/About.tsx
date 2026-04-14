@@ -87,7 +87,7 @@ export default function About() {
             <div className="space-y-6">
               <div className="aspect-[3/4] max-w-md mx-auto lg:mx-0 rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="/images/合富集团合富人杂志27期01-17'.jpg"
+                  src="./images/合富集团合富人杂志27期01-17'.jpg"
                   alt="ZHANG Peng - Professional Photo"
                   className="w-full h-full object-cover"
                 />
