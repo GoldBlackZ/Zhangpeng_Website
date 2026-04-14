@@ -22,7 +22,7 @@ const awardCategories = [
         year: '2018',
         organization: 'Hopefluent Group',
         description: 'Yizhongtong Business Management App - Covered 23 cities and 40+ channels',
-        image: './images/【合富】2018年度最佳项目%22互金风云奖%22-181231.jpg',
+        image: './images/【合富】2018年度最佳项目\"互金风云奖\"-181231.jpg',
       },
     ],
   },
