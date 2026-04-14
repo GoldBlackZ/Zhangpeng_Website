@@ -11,9 +11,9 @@ const mediaFeatures = [
     year: '2017',
     description: 'Featured cover story discussing career philosophy, leadership insights, and the fast-paced nature of the internet industry.',
     images: [
-      '/images/合富集团合富人杂志27期01-17\'.jpg',
-      '/images/合富集团合富人杂志27期02-17\'.jpg',
-      '/images/合富集团合富人杂志27期03-17\'.jpg',
+      './images/合富集团合富人杂志27期01-17\'.jpg',
+      './images/合富集团合富人杂志27期02-17\'.jpg',
+      './images/合富集团合富人杂志27期03-17\'.jpg',
     ],
     icon: BookOpen,
     color: '#0071e3',
@@ -36,8 +36,8 @@ const mediaFeatures = [
     year: '2025',
     description: 'Keynote speaker at the 2025 Longgang Human Resources Grand Lecture, sharing insights on AI deployment in enterprises.',
     images: [
-      '/images/(250410)深圳龙岗人力资源协会AI讲座讲演.png',
-      '/images/【龙人协&术源万算】(250419)AI·智汇未来 赋能发展-2025年龙岗人力资源大讲堂讲演.png',
+      './images/(250410)深圳龙岗人力资源协会AI讲座讲演.png',
+      './images/【龙人协&术源万算】(250419)AI·智汇未来 赋能发展-2025年龙岗人力资源大讲堂讲演.png',
     ],
     icon: Mic,
     color: '#bf5af2',
