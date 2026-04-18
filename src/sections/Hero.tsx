@@ -147,9 +147,8 @@ export default function Hero() {
             </Button>
             <Button
               size="lg"
-              variant="outline"
               onClick={() => scrollToSection('#contact')}
-              className="border-white/20 text-white hover:bg-white/10 rounded-full px-8 py-6 text-base font-medium"
+              className="bg-[#0071e3] hover:bg-[#0077ed] text-white rounded-full px-8 py-6 text-base font-medium transition-all hover:scale-105"
             >
               Get In Touch
             </Button>
