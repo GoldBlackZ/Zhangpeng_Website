@@ -19,13 +19,13 @@ jobs:
           node-version: '20'
           
       - name: Install dependencies
-        run: cd app && npm ci
+        run: npm ci
         
       - name: Build
-        run: cd app && npm run build
+        run: npm run build
         
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
-          folder: app/dist
+          folder: dist
